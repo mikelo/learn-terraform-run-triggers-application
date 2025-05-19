@@ -4,7 +4,7 @@
 variable "tfc_org_name" {
   description = "Name of the Terraform Cloud Organization"
   type        = string
-  default     = "hashicorp-learn"
+  default     = "IBM-Italia"
 }
 
 variable "tfc_network_workspace_name" {
